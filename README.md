@@ -1,6 +1,6 @@
 # Satellite-derived global ocean phytoplankton phenology indices 
 
-### Analysis and figures for Nicholson et al. 2024 
+## Code to produce figures for Nicholson et al. 2024 
 ### https://essd.copernicus.org/preprints/essd-2024-21/#discussion
 
 <b>Abstract: </b>
