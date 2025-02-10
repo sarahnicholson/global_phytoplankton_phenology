@@ -15,7 +15,7 @@ Southern Ocean Carbon-Climate Observatory, CSIR, Cape Town, South Africa
 Correspondence to: Sarah-Anne Nicholson (snicholson@csir.co.za) or 
 
 <b> Main contributors to the code:</b>
-Sarah-Anne Nicholson and Thomas J. Ryan-Keogh
+Sarah-Anne Nicholson and Thomas J. Ryan-Keogh (https://github.com/tjryankeogh)
 
 <b> Code requirements </b>
 The user will require the following software:
